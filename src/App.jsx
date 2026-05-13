@@ -54,7 +54,7 @@ export default function App() {
       </style>
 
       <header className="nav" style={navStyle}>
-        <div style={brandStyle}>PHC Logistics</div>
+        <div style={brandStyle}>PHC✓ Logistics</div>
 
         <nav className="nav-links" style={navLinksStyle}>
           <a href="#services" style={navLinkStyle}>Services</a>
@@ -285,7 +285,7 @@ const navLinkStyle = {
 };
 
 const buttonStyle = {
-  backgroundColor: "#0b5ed7",
+  backgroundColor: "#062b57",
   color: "white",
   textDecoration: "none",
   padding: "10px 16px",
@@ -485,7 +485,7 @@ const textareaStyle = {
 };
 
 const submitButtonStyle = {
- backgroundColor: "#0b5ed7",
+ backgroundColor: "#062b57",
   color: "white",
   border: "none",
   borderRadius: "999px",
