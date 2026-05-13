@@ -246,7 +246,7 @@ export default function App() {
 
 const pageStyle = {
   minHeight: "100vh",
-  backgroundColor: "#020617",
+  backgroundColor: "#031126",
   color: "white",
   fontFamily: "Arial, sans-serif",
   textAlign: "center",
@@ -355,8 +355,8 @@ const cardsContainerStyle = {
 };
 
 const cardStyle = {
-  backgroundColor: "#0f172a",
-  border: "1px solid #334155",
+  backgroundColor: "#071a33",
+  border: "1px solid #163256",
   borderRadius: "18px",
   padding: "30px",
   width: "300px",
@@ -485,7 +485,7 @@ const textareaStyle = {
 };
 
 const submitButtonStyle = {
-  backgroundColor: "#2563eb",
+ backgroundColor: "#0b5ed7",
   color: "white",
   border: "none",
   borderRadius: "999px",
