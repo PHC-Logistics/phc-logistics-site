@@ -235,7 +235,7 @@ export default function App() {
         <p style={footerTextStyle}>856-441-5221</p>
 
         <p style={footerTaglineStyle}>
-          Processed. Handled. Completed.
+          Properly Processed, Handled, and Completed.
         </p>
       </footer>
     </div>
@@ -285,7 +285,7 @@ const navLinkStyle = {
 };
 
 const buttonStyle = {
-  backgroundColor: "#2563eb",
+  backgroundColor: "#0b5ed7",
   color: "white",
   textDecoration: "none",
   padding: "10px 16px",
@@ -328,7 +328,7 @@ const heroTextStyle = {
 
 const heroButtonStyle = {
   display: "inline-block",
-  backgroundColor: "#2563eb",
+  backgroundColor: "#062b57",
   color: "white",
   textDecoration: "none",
   padding: "14px 24px",
